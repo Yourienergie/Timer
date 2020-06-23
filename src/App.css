@@ -1,0 +1,13 @@
+.timer{
+ border:solid blue 20px;
+
+width: 30%;
+height: auto;
+display: flex;
+justify-content: center;
+
+}
+.time{
+  display: flex;
+  justify-content: center;
+}
